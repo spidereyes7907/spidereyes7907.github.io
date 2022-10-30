@@ -1,0 +1,21 @@
+*{
+    font-family:'Montserrat', sans-serif;;
+}
+.test{
+    text-align: center;
+    color: whitesmoke;
+}
+
+div {
+    width: 600px;
+    height: 600px;
+    border: 10px solid blue;
+    margin: 50px auto;
+    background-color: blue;
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-clip:border-box;  
+    color: whitesmoke;
+}
